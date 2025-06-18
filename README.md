@@ -7,18 +7,20 @@ This project is a UI/UX assignment for the role of UI Designer Intern at Brandsh
 **Objective**
 To create a visually appealing and user-friendly homepage that reflects the brand’s organic values and attracts users through clean design, effective layout, and intuitive navigation.
 
-**Tools Used**
-Figma – for UI Design
-Grids & Alignment – to maintain layout structure
-Typography – Elegant and readable fonts
-Color Scheme – Green and earthy tones to reflect natural and organic themes
-**Sections Included**
-Hero Section with tagline and call-to-action
-Featured Products
-Special Offer Banner
-About the Brand
-Why Choose Us
-Contact Information & Footer
+## Tools Used
+- **Figma** – for UI Design
+- **Grids & Alignment** – to maintain layout structure
+- **Typography** – Elegant and readable fonts
+- **Color Scheme** – Green and earthy tones to reflect natural and organic themes
+
+## Sections Included
+- Hero Section with tagline and call-to-action
+- Featured Products
+- Special Offer Banner
+- About the Brand
+- Why Choose Us
+- Contact Information & Footer
+
 **Responsiveness**
 This design is focused on desktop view as per the assignment requirements. A responsive version can be developed if needed.
 
